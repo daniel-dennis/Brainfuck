@@ -1,9 +1,5 @@
 // (c) Daniel Dennis 2018
 
-/*
-    Interperter for Brainfuck programming language. next() goes through string recursively.
-*/
-
 #include <stdio.h>
 #include <string.h>
 #define MEM_LIM 32000
